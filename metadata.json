@@ -1,0 +1,5 @@
+{
+  "name": "Binocular Vision Simulator",
+  "description": "A 3D educational tool simulating human binocular vision. It demonstrates how interpupillary distance (IPD) and convergence create depth perception (stereopsis) using dual camera rendering.",
+  "requestFramePermissions": []
+}
